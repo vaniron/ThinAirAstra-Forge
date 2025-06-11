@@ -1,0 +1,123 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-11 13:27:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_savanna": "2025-06-11 13:27:15 +0200"
+    },
+    "done": false
+  },
+  "ad_astra:astronaut": {
+    "criteria": {
+      "has_astronaut": "2025-06-11 13:27:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-11 13:27:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-11 13:27:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-11 13:27:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-11 13:27:48 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-11 13:27:48 +0200"
+    },
+    "done": true
+  },
+  "thinair:recipes/tools/soulfire_bottle": {
+    "criteria": {
+      "in_nether": "2025-06-11 13:27:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-11 13:27:48 +0200"
+    },
+    "done": true
+  },
+  "thinair:recipes/tools/soulfire_bottle_from_glass": {
+    "criteria": {
+      "in_nether": "2025-06-11 13:27:48 +0200"
+    },
+    "done": true
+  },
+  "thinair:protection_from_yellow": {
+    "criteria": {
+      "protecc": "2025-06-11 13:27:54 +0200"
+    },
+    "done": true
+  },
+  "thinair:recipes/tools/air_bladder": {
+    "criteria": {
+      "in_dangerous_air": "2025-06-11 13:27:54 +0200"
+    },
+    "done": true
+  },
+  "thinair:root": {
+    "criteria": {
+      "bad_air": "2025-06-11 13:27:54 +0200"
+    },
+    "done": true
+  },
+  "thinair:recipes/tools/safety_lantern": {
+    "criteria": {
+      "in_dangerous_air": "2025-06-11 13:27:54 +0200"
+    },
+    "done": true
+  },
+  "thinair:recipes/tools/respirator": {
+    "criteria": {
+      "in_dangerous_air": "2025-06-11 13:27:54 +0200"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_man": {
+    "criteria": {
+      "has_jet_suit": "2025-06-11 14:01:41 +0200"
+    },
+    "done": true
+  },
+  "ad_astra:doom_slayer": {
+    "criteria": {
+      "has_netherite_space_suit": "2025-06-11 14:01:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-11 14:08:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-11 14:08:47 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
