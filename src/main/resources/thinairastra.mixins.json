@@ -6,8 +6,10 @@
   "mixins": [
     "ThinAirFixMixin",
     "DistributorPlayerAirMixin",
-    "OxygenDistributorAccessor"
+    "OxygenDistributorAccessor",
+    "DivingHelmetItemMixin"
   ],
+  "priority": 1100,
   "injectors": {
     "defaultRequire": 1
   }

@@ -70,7 +70,13 @@ side = "BOTH"
 [[dependencies."${mod_id}"]]
 modId = "ad_astra"
 mandatory = true
-versionRange = "[1.15.20,)"
+versionRange = "[1.15.19,)"
+ordering = "AFTER"
+side = "BOTH"
+[[dependencies."${mod_id}"]]
+modId = "create"
+mandatory = true
+versionRange = "[0.5.1,)"
 ordering = "AFTER"
 side = "BOTH"
 [[mixins]]

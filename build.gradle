@@ -156,11 +156,12 @@ dependencies {
 
     implementation fg.deobf("curse.maven:new-thin-air-878379:5068247")
 
-    implementation fg.deobf("curse.maven:ad-astra-635042:6262032")
+    implementation fg.deobf("curse.maven:ad-astra-635042:5914893")
     implementation fg.deobf("curse.maven:botarium-704113:5486070")
     implementation fg.deobf("curse.maven:resourceful-config-714059:6231176")
     implementation fg.deobf("curse.maven:resourceful-lib-570073:5659871")
     implementation fg.deobf("curse.maven:puzzles-lib-495476:6387081")
+    implementation fg.deobf("curse.maven:create-328085:5838779")
 
 
     implementation fg.deobf("curse.maven:ad-astra-giselle-addon-714958:6119244")
