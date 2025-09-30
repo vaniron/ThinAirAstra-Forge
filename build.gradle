@@ -162,6 +162,7 @@ dependencies {
     implementation fg.deobf("curse.maven:resourceful-lib-570073:5659871")
     implementation fg.deobf("curse.maven:puzzles-lib-495476:6387081")
     implementation fg.deobf("curse.maven:create-328085:5838779")
+    implementation fg.deobf("curse.maven:cold-sweat-506194:6503192")
 
 
     implementation fg.deobf("curse.maven:ad-astra-giselle-addon-714958:6119244")
