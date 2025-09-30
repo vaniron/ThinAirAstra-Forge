@@ -22,7 +22,7 @@ group = mod_group_id
 version = mod_version
 
 base {
-    archivesName = mod_id
+    archivesName = mod_name
 }
 
 java {
@@ -166,6 +166,8 @@ dependencies {
 
     implementation fg.deobf("curse.maven:ad-astra-giselle-addon-714958:6119244")
     implementation fg.deobf("curse.maven:mekanism-268560:6552911")
+
+    implementation("io.github.llamalad7:mixinextras-fabric:0.4.1")
 
     // Example mod dependency with JEI - using fg.deobf() ensures the dependency is remapped to your development mappings
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime

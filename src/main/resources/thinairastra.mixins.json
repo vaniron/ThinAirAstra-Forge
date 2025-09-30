@@ -7,7 +7,8 @@
     "ThinAirFixMixin",
     "DistributorPlayerAirMixin",
     "OxygenDistributorAccessor",
-    "DivingHelmetItemMixin"
+    "DivingHelmetItemMixin",
+    "EntityOxygenSystemMixin"
   ],
   "priority": 1100,
   "injectors": {
