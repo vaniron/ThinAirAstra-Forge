@@ -62,7 +62,7 @@ public final class OxygenOverrideHandler {
             var chest = player.getItemBySlot(EquipmentSlot.CHEST);
             if (chest.getItem() instanceof SpaceSuitItem suit && SpaceSuitItem.hasOxygen(player)) {
                 if (!player.hasEffect(MobEffects.WATER_BREATHING)) {
-                    if (player.tickCount % 40 == 0) suit.consumeOxygen(chest, 1L);
+                    if (player.tickCount % 20 == 0) suit.consumeOxygen(chest, 1L);
                 }
                 player.setAirSupply(player.getMaxAirSupply());
             }
