@@ -29,10 +29,6 @@ public abstract class EntityOxygenSystemMixin {
         createOxygen &= hasHelmet;
         createOxygen &= hasBacktankWithAir;
 
-        if (createOxygen) {
-            BacktankUtil.consumeAir(entity, BacktankUtil.getAllWithAir(entity).get(0), 1);
-        }
-
         return original || createOxygen;
     }
 
@@ -48,10 +44,6 @@ public abstract class EntityOxygenSystemMixin {
 
         createArmor &= hasDivingHelmet;
         createArmor &= hasBacktank;
-
-        if (createArmor) {
-            BacktankUtil.consumeAir(entity, BacktankUtil.getAllWithAir(entity).get(0), 1);
-        }
 
         return original || createArmor;
     }
